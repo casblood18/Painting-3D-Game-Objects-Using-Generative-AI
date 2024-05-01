@@ -1,6 +1,9 @@
 # Blog Post: Painting 3D Game Objects Using Generative AI
 
+We can take any 3D object and essentially AI generate a skin using a 2D texture map to wrap the 3D object. 
+
 ![download](https://github.com/casblood18/Painting-3D-Game-Objects-Using-Generative-AI/assets/123738254/64ea3cd3-68f7-423e-8e97-696134f87a2e)
+
 
 ---
 ## Part 1: Rendered Images With Generated Maps
